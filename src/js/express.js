@@ -9,7 +9,7 @@ const path = require("path");
 
 const io = require("socket.io")(server);
 // serve static assets to client
-app.use(express.static("public"));
+app.use(express.static("assets"));
 
 
 

@@ -2,7 +2,7 @@
   "name": "realtime_whiteboard",
   "version": "1.0.0",
   "description": "",
-  "main": "express.js",
+  "main": "src/js/express.js",
   "dependencies": {
     "express": "^4.17.1",
     "heroku": "^7.43.0",
